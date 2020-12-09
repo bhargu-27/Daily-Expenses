@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="account" type="id"></item>
+    <item name="settings" type="id"></item>
+    <item name="FAQs" type="id"></item>
+</resources>
